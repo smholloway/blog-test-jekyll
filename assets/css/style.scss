@@ -11,3 +11,16 @@ body {
     background: #fff;
     font: 18px/1.831 "Open Sans", sans-serif;
 }
+
+a {
+    color: #46aede;
+    text-decoration: none;
+    -webkit-transition: 0.25s;
+    -moz-transition: 0.25s;
+    -o-transition: 0.25s;
+    transition: 0.25s;
+    -webkit-backface-visibility: hidden;
+}
+a:visited {
+    color: #46aede;
+}
